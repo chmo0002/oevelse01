@@ -1,0 +1,11 @@
+img.clickable-image {
+  height: 200px;
+  max-width: 100%;
+  margin-right: 10px;
+  cursor: pointer; /* Add a pointer cursor to indicate the images are clickable */
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
